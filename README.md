@@ -1,5 +1,8 @@
 # todolist
 
+![VueToDoList](https://user-images.githubusercontent.com/46508156/137645977-89b42533-5471-4234-9115-f354c403296b.jpg)
+
+
 ## Project setup
 ```
 npm install
